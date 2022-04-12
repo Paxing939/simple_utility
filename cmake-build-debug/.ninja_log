@@ -1,6 +1,0 @@
-# ninja log v5
-0	312	1649790902991361172	CMakeFiles/simple_utility.dir/main.cpp.o	734d1fdb3f589ab6
-0	11	1649793516020934462	build.ninja	5f730c7929000793
-333	372	1649793484658128559	simple_utility	e03881de5b73dc74
-0	270	1649787508260233049	CMakeFiles/simple_utility.dir/create_bin_file.cpp.o	b748d124f4206236
-0	333	1649793484618130116	CMakeFiles/simple_utility.dir/main2.cpp.o	1c2c0ac6fc21ceb6

@@ -1,3 +1,0 @@
-/home/ilya/CLionProjects/simple_utility/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/ilya/CLionProjects/simple_utility/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/ilya/CLionProjects/simple_utility/cmake-build-debug/CMakeFiles/simple_utility.dir
