@@ -72,8 +72,8 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 
 build cmake_object_order_depends_target_simple_utility: phony || CMakeFiles/simple_utility.dir
 
-build CMakeFiles/simple_utility.dir/main.cpp.o: CXX_COMPILER__simple_utility_Debug /home/ilya/CLionProjects/simple_utility/main.cpp || cmake_object_order_depends_target_simple_utility
-  DEP_FILE = CMakeFiles/simple_utility.dir/main.cpp.o.d
+build CMakeFiles/simple_utility.dir/easy_version.cpp.o: CXX_COMPILER__simple_utility_Debug /home/ilya/CLionProjects/simple_utility/easy_version.cpp || cmake_object_order_depends_target_simple_utility
+  DEP_FILE = CMakeFiles/simple_utility.dir/easy_version.cpp.o.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles/simple_utility.dir
   OBJECT_FILE_DIR = CMakeFiles/simple_utility.dir
@@ -86,7 +86,7 @@ build CMakeFiles/simple_utility.dir/main.cpp.o: CXX_COMPILER__simple_utility_Deb
 #############################################
 # Link the executable simple_utility
 
-build simple_utility: CXX_EXECUTABLE_LINKER__simple_utility_Debug CMakeFiles/simple_utility.dir/main.cpp.o
+build simple_utility: CXX_EXECUTABLE_LINKER__simple_utility_Debug CMakeFiles/simple_utility.dir/easy_version.cpp.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/simple_utility.dir
   POST_BUILD = :
